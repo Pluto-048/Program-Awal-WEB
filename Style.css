@@ -1,0 +1,28 @@
+body{
+    background:linear-gradient(to right,rgb(232, 103, 11), rgba(232, 173, 11, 0.862),rgb(232, 103, 11));
+}
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+img {
+  border-radius: 8px;
+}
+a {
+  color: brown;
+}
+.foto-1{
+    display:block;
+    margin:0 auto;
+    box-shadow:5px 5px 5px black;
+    width:500px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+
+
