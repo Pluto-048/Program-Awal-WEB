@@ -60,6 +60,11 @@ a:hover{
   margin: 20px 0;          
 }
 
-
+.tampilan-2{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
 
 
