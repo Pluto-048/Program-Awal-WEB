@@ -63,12 +63,13 @@ a:hover{
   display:flex;
   justify-content:center;
   align-items:center;
+  color:#ffffff;
 }
 .tampilan-2{
   background-color: #00000061;
-  width: 70%;
+  width: 80%;
   margin: 0 20px;        
-  padding: 5px 0; 
+  padding: 10px 0; 
   box-shadow:10px 10px 5px #00000061;      
 }
 .T1{
@@ -83,4 +84,23 @@ a:hover{
   width: 250px;
   height: 200px;
   margin:0 10px;
+}
+.A-1{
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+.A-2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.A-3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+audio{
+  height: 90px;
+  width: 250px;
 }
